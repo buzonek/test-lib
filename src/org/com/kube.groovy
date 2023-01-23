@@ -1,4 +1,4 @@
-package org.com.Kube
+package org.com.kube
 
 class Kube {
     def login(){
