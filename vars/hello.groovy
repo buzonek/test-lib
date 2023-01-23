@@ -1,4 +1,4 @@
-import org.com.Kube
+import org.com
 
 def call(String name = 'User') {
     echo "Welcome, ${name}."
