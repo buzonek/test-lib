@@ -1,7 +1,7 @@
-import org.com.kube.Kube
+import org.com.kube
 
 def call(String name = 'User') {
     echo "Welcome, ${name}."
-    def kube = Kube()
+    def kube = kube.Kube()
     kube.login()
 }
